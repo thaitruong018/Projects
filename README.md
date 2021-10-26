@@ -1,4 +1,4 @@
-# Welcome to my first projects
+# Welcome to my projects
 For the purposes of practicing what I have learned, I decided to get my hand dirty with two projects:
 - Predicting Boston house price with regression
 - Classify Cotton leaves are diseased or fresh
